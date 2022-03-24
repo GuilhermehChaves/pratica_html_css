@@ -1,0 +1,64 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    padding: 0% 5%;
+}
+
+.head {
+    color: white;
+    background-color: #72297B;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.head.title {
+    margin: 0;
+}
+
+.list {
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 20px;
+    background-color: rgb(245, 245, 245);
+}
+
+.list-element {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.project {
+    padding: 0px 2%;
+    width: 200px;
+}
+
+.project-description {
+    width: 50%;
+}
+
+.project-image {
+    padding: 0px 10px;
+}
+
+/* .color {
+    background-color: rgb(202, 247, 202);
+} */
+
+table {
+    background-color: rgb(245, 245, 245);
+}
+
+th {
+    background-color:  rgb(227, 250, 227);
+}
+
+td {
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid rgb(207, 207, 207);
+}
